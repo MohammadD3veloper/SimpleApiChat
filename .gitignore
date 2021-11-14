@@ -1,0 +1,13 @@
+.env
+.git/
+authentication/__pycache__/
+authentication/migrations/*
+blocker/__pycache__/
+blocker/migrations/*
+blog/__pycache__/
+blog/migrations/*
+config/__pycache__/
+main/__pycache__/
+main/migrations/*
+users/__pycache__/
+users/migrations/*
